@@ -1,2 +1,78 @@
 
 /* css */
+body {
+  font-family: 'Gothic A1';
+}
+.container { background-color: #ff0099;
+            height: 220px;
+            width: 500px;
+            position: relative
+          }
+
+.squares {
+            width: 500px;
+            position: relative;
+            left: 470px;
+          }
+.taupe { color: #dae0d4; }
+.black { color: #000; }
+
+
+h3 { font-size: .4rem;
+      margin-top: 20px;
+     margin-bottom: 100px;
+     line-height: .8rem;
+   }
+h1 { font-size: 4.1rem;
+      margin-bottom: 100px;
+    }
+
+
+.container1 { background-color: #cb017b;
+            height: 125px;
+            width: 125px}
+.container2 { background-color: #b6006f;
+            height: 125px;
+            width: 125px}
+.container3 { background-color: #99005d;
+            height: 125px;
+            width: 125px}
+.container4 { background-color: #7d004c;
+            height: 125px;
+            width: 125px}
+.container5 { background-color: #b6006f;
+            height: 125px;
+            width: 125px}
+.container6 { background-color: #99005d;
+            height: 125px;
+            width: 125px}
+.container7 { background-color: #7d004c;
+            height: 125px;
+            width: 125px}
+.container8 { background-color: #630039;
+            height: 125px;
+            width: 125px}
+.container9 { background-color: #99005d;
+            height: 125px;
+            width: 125px}
+.container10 { background-color: #7c004b;
+            height: 125px;
+            width: 125px}
+.container11 { background-color: #630039;
+            height: 125px;
+            width: 125px}
+.container12 { background-color: #450023;
+            height: 125px;
+            width: 125px}
+.container13 { background-color: #7c004b;
+            height: 125px;
+            width: 125px}
+.container14 { background-color: #630039;
+            height: 125px;
+            width: 125px}
+.container15 { background-color: #460024;
+            height: 125px;
+            width: 125px}
+.container16 { background-color: #060000;
+            height: 125px;
+            width: 125px}
